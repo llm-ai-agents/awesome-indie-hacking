@@ -180,6 +180,7 @@ Coverage and available filters change as reports are published. See the live sit
 | [BetaList](https://betalist.com/) ⭐⭐ | Medium | Pre-launch before Product Hunt |
 | [Hunt Killer](https://huntkiller.com/) | — | Pre-PH warm-up tool |
 | [Launching Next](https://launchingnext.com/) | — | New product directory |
+| [MEDIAPRONET](https://mediapronet.com/) | — | Curated directory of new startups and indie products, one page per launch |
 
 ### Regional Platforms
 
