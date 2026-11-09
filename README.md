@@ -82,6 +82,7 @@ Coverage and available filters change as reports are published. See the live sit
 | [Trends.vc](https://trends.vc/) | Premium market trend reports with deep dives into emerging markets | Deep market research |
 | [G2](https://www.g2.com/) | Read real user reviews to find gaps in existing solutions | Competitor analysis |
 | [Capterra](https://www.capterra.com/) | B2B software review platform, browse by category to gauge demand | Competitor analysis |
+| [EarlyLore](https://earlylore.com/) | Research workspace for studying real SaaS products, revenue signals and competitor changes before you build | Competitor analysis |
 | [Upwork](https://www.upwork.com/) / [Freelancer](https://www.freelancer.com/) | Browse tasks people are *actually paying for right now* — first-hand demand | First-hand research |
 
 ### Keyword & SEO Tools
